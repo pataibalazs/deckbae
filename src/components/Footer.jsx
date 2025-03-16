@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 const navigation = {
   main: [
     { name: "Főoldal", href: "/" },
-    { name: "Árak", href: "/selltous" },
-    { name: "Kiszámoló", href: "/reviews" },
+    { name: "Típusházaink", href: "/houses" },
+    { name: "Kiegészítések", href: "/extras" },
     { name: "Csapat", href: "/teams" },
     { name: "Rólunk", href: "/contact" },
   ],

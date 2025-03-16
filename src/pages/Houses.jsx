@@ -12,7 +12,7 @@ const Houses = () => {
         <div className="bg-white">
           <div className="mx-auto max-w-5xl lg:text-center">
             <p className="mt-2 text-md font-bold tracking-tight text-red-600">
-              Áraink
+              Típusházaink
             </p>
             <p className="mt-2 mb-4 text-4xl font-semibold tracking-tight text-pretty text-gray-900">
               Készen állsz az új otthonodra?
