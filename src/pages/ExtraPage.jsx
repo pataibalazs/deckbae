@@ -20,10 +20,6 @@ const ExtraPage = () => {
           </div>
           <div className="flex flex-col mx-auto max-w-7xl">
             <Item1 />
-            <Item2 />
-            <Item3 />
-            <Item4 />
-            <Item5 />
           </div>
         </div>
       </main>
